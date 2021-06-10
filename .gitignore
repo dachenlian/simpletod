@@ -1,78 +1,27 @@
-<<<<<<< HEAD
 *.tgz
 *.h5
 *.hdf5
 *.swp
 *.swo
-#*.txt
 *.csv
 *.png
 *.log
 *.pkl
 *.pth
 *.swn
-##*.sh
 *.pyc
 *.pptx
 *.xlsx
 *.zip
 *.DS_Store
 *.tar
-#*.dat
 *.qpclassifier
 *.qpdata
-=======
-#<<<<<<< HEAD
-#<<<<<<< HEAD
-#*.tgz
-#*.h5
-#*.hdf5
-#*.swp
-#*.swo
-#*.txt
-#*.csv
-#*.png
-#*.log
-#*.pkl
-#*.pth
-#*.swn
-#*.sh
-#*.pyc
-#*.pptx
-#*.xlsx
-#*.zip
-#*.DS_Store
-#*.tar
-#*.dat
-#*.qpclassifier
-#*.qpdata
->>>>>>> 9c37d6284d430f8f0c82af4055d5c7b1277b4f5f
-#
-#
-#__pycache__/
-#.ropproject/
-#.idea/
-#.ipynb_checkpoints/
-#=======
-#legacy
-#notebooks
-#foobar*
-#run.sh
-#README.rst
-#pretrained_models
-#deepvoice3_pytorch/version.py
-#checkpoints*
-#log
-#generated
-#data
-#text
-<<<<<<< HEAD
-##datasets
-=======
-#datasets
->>>>>>> 9c37d6284d430f8f0c82af4055d5c7b1277b4f5f
-#testout
-#
+__pycache__/
+.ropproject/
+.idea/
+.ipynb_checkpoints/
+**/resources
 ## Created by https://www.gitignore.io
 #
 #### Python ###
@@ -91,11 +40,7 @@
 #dist/
 #downloads/
 #eggs/
-<<<<<<< HEAD
-##lib/
-=======
 #lib/
->>>>>>> 9c37d6284d430f8f0c82af4055d5c7b1277b4f5f
 #lib64/
 #parts/
 #sdist/
@@ -203,9 +148,6 @@
 #
 #
 #### C++ ###
-<<<<<<< HEAD
-=======
-#=======
 #data/*
 #
 ## READ THIS BEFORE YOU REFACTOR ME
@@ -298,57 +240,36 @@
 #
 ### General
 #
-#>>>>>>> eda8152c3c52c67679b6406fb05d508a609e70cd
->>>>>>> 9c37d6284d430f8f0c82af4055d5c7b1277b4f5f
 ## Compiled Object files
 #*.slo
 #*.lo
 #*.o
-<<<<<<< HEAD
-=======
-#<<<<<<< HEAD
->>>>>>> 9c37d6284d430f8f0c82af4055d5c7b1277b4f5f
 #*.obj
 #
 ## Precompiled Headers
 #*.gch
 #*.pch
 #
-<<<<<<< HEAD
-=======
-#=======
 #*.cuo
 #*.obj
 #
-#>>>>>>> eda8152c3c52c67679b6406fb05d508a609e70cd
->>>>>>> 9c37d6284d430f8f0c82af4055d5c7b1277b4f5f
 ## Compiled Dynamic libraries
 #*.so
 #*.dylib
 #*.dll
 #
-<<<<<<< HEAD
-## Fortran module files
-#*.mod
-#
-=======
-#<<<<<<< HEAD
 ## Fortran module files
 #*.mod
 #
 #=======
 #>>>>>>> eda8152c3c52c67679b6406fb05d508a609e70cd
->>>>>>> 9c37d6284d430f8f0c82af4055d5c7b1277b4f5f
 ## Compiled Static libraries
 #*.lai
 #*.la
 #*.a
 #*.lib
 #
-<<<<<<< HEAD
-=======
 #<<<<<<< HEAD
->>>>>>> 9c37d6284d430f8f0c82af4055d5c7b1277b4f5f
 ## Executables
 #*.exe
 #*.out
@@ -387,8 +308,6 @@
 #
 ## Linux trash folder which might appear on any partition or disk
 #.Trash-*
-<<<<<<< HEAD
-=======
 #>>>>>>> 274447dbea13021db88e6916e7b02d94fb1a1b00
 #=======
 ## Compiled protocol buffers
@@ -485,4 +404,3 @@
 #lib/model/utils/bbox.c
 #lib/pycocotools/_mask.c
 #>>>>>>> eda8152c3c52c67679b6406fb05d508a609e70cd
->>>>>>> 9c37d6284d430f8f0c82af4055d5c7b1277b4f5f
